@@ -19,7 +19,7 @@ const AppContainer = styled.div`
   border-radius: 10px;
   padding: 20px;
 `;
-
+/* abc */
 const App = () => {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);

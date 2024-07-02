@@ -17,7 +17,7 @@ const ScoreContainer = styled.div`
     }
   }
 `;
-
+/* abc */
 const ScoreText = styled.h2`
   margin-bottom: 20px;
   color: #333;
